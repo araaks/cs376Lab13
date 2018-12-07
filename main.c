@@ -30,7 +30,7 @@ int main(int argc, const char * argv[])
 		robotPrintAscii();
 		dalekPrintAscii();
 		robotPrintMessage();
-	
+/////////adlfkasfjkghsdjkhsdlfg	
 	}}
 //  dalekPrintAscii();
  // robotPrintMessage();
