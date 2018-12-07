@@ -22,10 +22,10 @@
  */
 int main(int argc, const char * argv[])
 {
-	if (argc < 1 ) {
+	if (argc < 2 ) {
 		robotPrintAscii();
 	}else{
-	int n = *argv[0];
+	int n = *argv[1];
 	if (isdigit(n)){
 		robotPrintAscii();
 		dalekPrintAscii();
